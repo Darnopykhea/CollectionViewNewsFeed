@@ -1,2 +1,2 @@
-# CollectionViewNewsFeed
 Демонстрация работы UICollectionView + CompositionalLayout в MVVM+Combine
+Кэширование изображений с исключением возможности повторной загрузке (например при сворачивании приложения)
